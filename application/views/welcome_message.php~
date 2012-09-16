@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>query</title>
+</head>
+<body>
+	<h1><?php echo $query;?></h1>
+</body>
+</html>
